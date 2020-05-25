@@ -1,21 +1,3 @@
-# guanwang
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+### youyan-web
+## 项目说明：
+我接手的用vue写的一个官网项目
